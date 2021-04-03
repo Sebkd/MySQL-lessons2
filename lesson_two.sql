@@ -12,4 +12,6 @@ insert into users values(2, 'Dmitry');
 select * from users;
 
 
-	
+use mysql;
+
+select * from help_keyword limit 100;	

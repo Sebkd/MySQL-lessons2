@@ -10,4 +10,6 @@ insert into users values(default, default);
 insert into users values(2, 'Dmitry');
 
 select * from users;
+
+
 	
